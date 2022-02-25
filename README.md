@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zigiprimo
 - 👀 I’m interested in food, growing greens and sunny days in coastal regions
-- 🌱 I’m currently learning Typescript with Node.js
+- 🌱 I’m currently learning Cloudflare Workers
 - 💞️ I’m looking to collaborate on cool IoT projects
 
 <!---
