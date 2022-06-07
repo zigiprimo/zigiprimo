@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zigiprimo
 - 👀 I’m interested in food, growing greens and sunny days in coastal regions
-- 🌱 I’m currently learning Cloudflare Workers
-- 💞️ I’m looking to collaborate on cool IoT projects
+- 🌱 I’m currently learning about the Cloudflare Platform
+- 💞️ Always looking to collaborate on cool IoT projects
 
 <!---
 zigiprimo/zigiprimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
