@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zigiprimo
+- 👋 Hi, I’m Sameer
 - 👀 I’m interested in food, growing greens and sunny days in coastal regions
 - 🌱 I’m currently learning about the Cloudflare Platform
 - 💞️ Always looking to collaborate on cool IoT projects
