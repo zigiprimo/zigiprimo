@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sameer
-- 👀 I’m interested in food, growing greens and sunny days in coastal regions
-- 🌱 I’m currently learning about the Cloudflare Platform
-- 💞️ Always looking to collaborate on cool IoT projects
+- 👀 I’m interested in coffee, growing greens and sunny days in coastal regions
+- 🌱 I’m currently streamlining my backend stack...
+
 
 <!---
 zigiprimo/zigiprimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
