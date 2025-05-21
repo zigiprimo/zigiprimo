@@ -1,5 +1,7 @@
-👋 Hi, Sameer here
+👋 Konnichiwa, Sameer des
+
 👀 I like my morning coffee, growing greens and sunny days in coastal regions
+
 🌱 Currently streamlining my backend stack...
 
 <!---
